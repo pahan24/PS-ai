@@ -1,0 +1,7 @@
+{
+  "name": "PS AI",
+  "description": "A premium, fully functional AI chat application replicating the Google Gemini experience with multimodal support, streaming responses, and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
